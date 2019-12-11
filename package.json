@@ -44,7 +44,7 @@
     "coveralls": "^2.11.4",
     "jsdoc": "^3.4.3",
     "jshint": "^2.9.4",
-    "nsp": "^2.6.2",
+    "nsp": "^3.2.1",
     "semistandard": "^9.2.1",
     "tape": "^4.6.3",
     "tape-catch": "^1.0.6",
